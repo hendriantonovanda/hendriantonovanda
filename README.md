@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Hendrianto Novanda Putra! 👨‍💻</h1>
+  <h1>👋 Hi there, I'm Hendrianto Novanda! 👨‍💻</h1>
   <p>Welcome to my GitHub profile! I enjoy designing engaging user experiences and learning about frontend development.</p>
 </div>
 
